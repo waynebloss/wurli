@@ -1,0 +1,10 @@
+{
+	"name": "wurli",
+	"version": "0.0.0",
+	"description": "Changes .url file(s) into static html redirect file(s)",
+	"author": "Wayne Bloss <waynebloss@gmail.com>",
+	"main": "wurli.js",
+	"dependencies": {
+		"node-ini": "*"
+	}
+}
