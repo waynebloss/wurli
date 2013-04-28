@@ -5,6 +5,8 @@ var path = require('path');
 var ini = require('node-ini');
 var pkg = require('./package.json');
 
+// TODO: Use npm lib commander to make a nicer command line app.
+
 function print(msg)
 {
 	console.write(msg + "\n");
