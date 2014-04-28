@@ -15,3 +15,9 @@ Shortcut" links from Windows .url files.
 Here is a demonstration of wurli in action:
 
 ![wurli demonstration](demo-usage.gif?raw=true "wurli demonstration")
+
+## Installation
+
+(Windows only, Node.js v0.10+ required)
+
+There is no installer at this time, so clone or download this repository, run `npm install` and then run the `install-wurli.vbs` script.
