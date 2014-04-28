@@ -1,10 +1,10 @@
 # wurli
 
-Windows URL (file extension) Interchange
+Windows URL Interchange
 
 ## About
 
-A Node.js script to transform .url file(s) into static html file(s) that
+A Node.js script to transform .url files into static html files that
 redirect (via javascript) to the url specified in the .url file, or vice versa.
 
 To put it another way - this script creates cross platform compatible "Internet
