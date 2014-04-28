@@ -20,4 +20,4 @@ Here is a demonstration of wurli in action:
 
 (Windows only, Node.js v0.10+ required)
 
-There is no installer at this time, so clone or download this repository, run `npm install` and then run the `install-wurli.vbs` script.
+There is no installer at this time, so clone or download this repository, run `npm install` in the wurli directory and then run the `install-wurli.vbs` script.
